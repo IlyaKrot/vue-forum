@@ -1,4 +1,6 @@
-# vue-forum
+# Forum
+
+![Alt text](/screen/Forum.jpg?raw=true "Forum")
 
 ## Project setup
 ```
